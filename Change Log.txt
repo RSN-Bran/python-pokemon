@@ -1,0 +1,7 @@
+Change log
+
+-Fixed text from displaying in console instead of on GUI
+-Updated health bars to update with Pokemon’s health
+-Deleted many Dummy values that had no effect on the program
+-Fixed the win or lose function to display a dialogue box and delete the game window
+-Cleaned up the program to look a bit nicer
